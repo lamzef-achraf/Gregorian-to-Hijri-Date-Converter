@@ -22,6 +22,6 @@ A simple web app that converts a Gregorian date to a Hijri (Islamic) date using 
 
 ## 🚀 Live Demo
 
-👉 https://yourusername.github.io/date-converter
+👉  https://lamzef-achraf.github.io/Gregorian-to-Hijri-Date-Converter/
 
 Made with ❤ by Achraf
